@@ -31,6 +31,7 @@ Have a great tip about life in Zurich or studying at ETH? [Contribute to this li
 
 - [ETH Library](https://library.ethz.ch/en/) - Access to a vast collection of academic resources
 - [VVZ (Course Catalogue)](https://www.vvz.ethz.ch/) - Comprehensive list of courses offered at ETHZ
+- [Exam Collection](https://exams.vis.ethz.ch/) - Archive of past exams for various ETHZ courses
 
 ## Student Life
 

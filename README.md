@@ -52,6 +52,21 @@ The eLink shuttle bus is a free service for ETH Zurich students, employees, and 
 
 https://ethz.ch/staffnet/en/service/mobility/link.html
 
+### Buying a used bicycle
+
+Pro Velo Kanton Zürich organizes regular bicycle markets (Velobörsen) where you can buy or sell bicycles. These events offer a wide selection of bikes, including city bikes, e-bikes, and more.
+
+Upcoming Velobörsen in 2024:
+- September 14: Oerlikon (Max-Bill-Platz)
+- September 21: Winterthur (Katharina-Sulzer-Platz)
+- October 5: Zürich (Helvetiaplatz)
+
+Typical schedule:
+- Bicycle drop-off: 8:00 - 10:00
+- Sale hours: 9:00 - 15:00
+
+For more details and future events, visit the [Pro Velo Velobörse website](https://www.provelozuerich.ch/events/category/veloboerse/).
+
 ## Extracurricular Activities
 
 - [ETH Entrepreneur Club](https://www.entrepreneur-club.org/) - Student organization promoting entrepreneurship

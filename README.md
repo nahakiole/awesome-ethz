@@ -18,7 +18,7 @@ Have a great tip about life in Zurich or studying at ETH? [Contribute to this li
 - [ETH Library](https://library.ethz.ch/en/) - Access to a vast collection of academic resources
 - [VVZ (Course Catalogue)](https://www.vvz.ethz.ch/) - Comprehensive list of courses offered at ETHZ
 - [Exam Collection](https://exams.vis.ethz.ch/) - Archive of past exams for various ETHZ courses
-- 
+
 ### Student Life
 
 - [VSETH](https://vseth.ethz.ch/) - The umbrella organization for all ETHZ student associations
@@ -43,6 +43,7 @@ Have a great tip about life in Zurich or studying at ETH? [Contribute to this li
 ## Housing
 
 - [Student Housing](https://www.wohnen.ethz.ch/en/) - Information on student accommodation
+- [WGZimmer.ch](https://www.wgzimmer.ch/) - Platform for finding shared apartments and roommates
 
 ### Wohnen für Hilfe (Housing for Help)
 
@@ -55,18 +56,12 @@ Key points:
 - Pro Senectute Kanton Zürich provides advice, matching services, and ongoing support
 - Only students from Switzerland and the EU are eligible due to legal regulations
 
-How to apply:
-1. Fill out the application form for students (PDF available on the website)
-2. Contact Pro Senectute Kanton Zürich for more information:
-   - Wohnen für Hilfe, Andrea Ziegler
-   - Email: wfh@pszh.ch
-   - Phone: 058 451 50 26
-
 For more details and application forms, visit the [Wohnen für Hilfe website](https://pszh.ch/begegnung/generationenbeziehungen/wohnen-fuer-hilfe/).
 
-## Free or reduced Offerings
+## Student Discounts and Free Services
 
 - [Overleaf Premium](https://www.overleaf.com/edu/ethz?&nocdn=true) - Free access for ETHZ students, great for LaTeX documents
+- [Projekt Neptun](https://www.projektneptun.ch/) offers discounted laptops, tablets, and accessories for students in Swiss higher education institutions, including ETH Zurich.
 
 ### Züri Velo by PubliBike 
 
@@ -116,7 +111,7 @@ https://ethz.ch/staffnet/en/service/eth-card/functions/mobility-car-sharing-offe
 
 The [GitHub Student Developer Pack](https://education.github.com/pack) is an excellent resource for ETHZ students, offering free access to various developer tools and services. Here are some highlights:
 
-- **GitHub Pro**: Free while you are a student
+- **GitHub Pro**: Free while you are a student 
 - **JetBrains**: Free access to professional desktop IDEs (They are the best :D)
 - **Microsoft Azure**: Free access to 25+ Microsoft Azure cloud services plus $100 in Azure credit
 - **Educative**: 6 months of free access to 60+ courses
@@ -126,7 +121,7 @@ The [GitHub Student Developer Pack](https://education.github.com/pack) is an exc
 - **IconScout**: Free access to 60 premium icons every month for 1 year
 - **Canva**: Free Canva Pro subscription for 12 months
 
-And many more! Visit the [GitHub Student Developer Pack](https://education.github.com/pack) website for the full list of offerings and to sign up.
+Visit the [GitHub Student Developer Pack](https://education.github.com/pack) website for the full list of offerings and to sign up.
 
 ## Financial Aid and Insurance
 

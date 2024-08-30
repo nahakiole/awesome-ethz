@@ -36,6 +36,14 @@ Have a great tip about life in Zurich or studying at ETH? [Contribute to this li
 - [ZVV](https://www.zvv.ch/zvv/en/home.html) - Zurich public transportation information
 - [SBB](https://www.sbb.ch/en) - Swiss Federal Railways for intercity travel
 
+### ETH Shuttle Bus (eLink)
+
+The eLink shuttle bus is a free service for ETH Zurich students, employees, and their guests:
+
+- Runs between Zentrum campus and Hönggerberg campus several times per hour
+- Extended service to Zurich Hauptbahnhof (HB) three times in the morning and four times in the evening
+- Free of charge, no need to change buses
+
 ## Extracurricular Activities
 
 - [ETH Entrepreneur Club](https://www.entrepreneur-club.org/) - Student organization promoting entrepreneurship

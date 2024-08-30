@@ -7,7 +7,7 @@ A curated list of awesome resources, tools, and tips for students at ETH Zürich
 
 Have a great tip about life in Zurich or studying at ETH? [Contribute to this list](#contributing) and help your fellow students!
 
-[Jump to Student Discounts and Free Services](#student-discounts-and-free-services)
+[Are you looking for free stuff? Jump to Student Discounts and Free Services](#student-discounts-and-free-services)
 
 ## ETHZ Resources
 
@@ -25,7 +25,13 @@ Have a great tip about life in Zurich or studying at ETH? [Contribute to this li
 
 - [VSETH](https://vseth.ethz.ch/) - The umbrella organization for all ETHZ student associations
 - [ETH Gastro](https://www.gastro.ethz.ch/en/) - Information on cafeterias and restaurants on campus
+- https://vseth.ethz.ch/politik/rechte-im-zusammenhang-mit-pruefungen/ - Information on student rights related to exams.
+
+#### Mental Health Resources
+
 - [Psychological Counselling Services](https://www.pbs.uzh.ch/en.html) - Mental health support for students
+- https://help.vseth.ethz.ch/helpdesk - Confidential support from fellow ETH students.
+- https://www.nightline.ch/public/en/home/ - Anonymous, confidential helpline for students in Switzerland.
 
 ### Career Development
 
@@ -56,6 +62,7 @@ https://ethz.ch/staffnet/en/service/mobility/link.html
 
 - [Student Housing](https://www.wohnen.ethz.ch/en/) - Information on student accommodation
 - [WGZimmer.ch](https://www.wgzimmer.ch/) - Platform for finding shared apartments and roommates
+- https://welcome.vseth.ethz.ch/wohnen
 
 ### Wohnen für Hilfe (Housing for Help)
 
@@ -160,6 +167,7 @@ For more information on eligibility and access, visit the [ASVZ eligibility page
 
 - Apply for financial aid through your home canton [List of cantonal scholarship offices](https://ethz.ch/content/dam/ethz/main/education/finanzielles/files-de/stipendienstellen.pdf)
 - Use a service like https://www.stipendium.ch/ to find a stipendium
+- https://ethz.ch/studierende/de/studium/finanzielles/stipendien.html
 - Personal liability insurance (Privathaftpflichtversicherung) recommended
 - Home contents insurance (Hausratversicherung) recommended for those renting apartments
 - Use [Comparis.ch](https://www.comparis.ch) to compare insurance and other services
@@ -187,6 +195,14 @@ We especially encourage contributions related to life in Zurich and studying at 
 
 - [Robin Glauser](https://github.com/nahakiole) - Initial work and curation
 - [Manuel Meister](https://github.com/manuelmeister) - Idea for PubliBike and Github Student Developer Pack
+
+## Sources
+
+- [ETHZ Website](https://ethz.ch/en.html) - The official website of ETH Zürich
+- ETH D-INFK Discord
+- https://xyquadrat.ch/infk-faq/ (Lot's of nice resources and tricks on there as well)
+- https://welcome.vseth.ethz.ch/erstewoche
+
 ---
 
 If you find this list helpful, don't forget to give it a star ⭐️ and share it with your fellow ETHZ students!

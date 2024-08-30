@@ -44,6 +44,8 @@ The eLink shuttle bus is a free service for ETH Zurich students, employees, and 
 - Extended service to Zurich Hauptbahnhof (HB) three times in the morning and four times in the evening
 - Free of charge, no need to change buses
 
+https://ethz.ch/staffnet/en/service/mobility/link.html
+
 ## Extracurricular Activities
 
 - [ETH Entrepreneur Club](https://www.entrepreneur-club.org/) - Student organization promoting entrepreneurship

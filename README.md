@@ -7,6 +7,8 @@ A curated list of awesome resources, tools, and tips for students at ETH Zürich
 
 Have a great tip about life in Zurich or studying at ETH? [Contribute to this list](#contributing) and help your fellow students!
 
+[Jump to Student Discounts and Free Services](#student-discounts-and-free-services)
+
 ## ETHZ Resources
 
 - [ETHZ Website](https://ethz.ch/en.html) - The official website of ETH Zürich

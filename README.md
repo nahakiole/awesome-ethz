@@ -135,6 +135,27 @@ The [GitHub Student Developer Pack](https://education.github.com/pack) is an exc
 
 Visit the [GitHub Student Developer Pack](https://education.github.com/pack) website for the full list of offerings and to sign up.
 
+### ASVZ (Academic Sports Association Zurich)
+
+ASVZ provides access to a wide range of sports facilities and classes for ETH Zurich students and staff.
+
+- **Students and apprentices/trainees**: 
+  - Automatic access with ETH card
+  - ASVZ logo printed on the ETH card
+
+- **MAS and MBA students**: 
+  - Can access ASVZ sports program for an annual fee of CHF 300
+
+- **Employees, academic guests & pensioners**: 
+  - Can purchase access at the ASVZ counter or online
+  - Use ASVZ card in the ASVZ-App
+  - ASVZ logo not printed on the ETH card
+
+- **Partners** (spouse or partner of concubinage) of students, employees, pensioners, and alumni:
+  - Can apply for access authorization at ASVZ counters
+
+For more information on eligibility and access, visit the [ASVZ eligibility page](https://www.asvz.ch/en/node/77532).
+
 ## Financial Aid and Insurance
 
 - Apply for financial aid through your home canton [List of cantonal scholarship offices](https://ethz.ch/content/dam/ethz/main/education/finanzielles/files-de/stipendienstellen.pdf)

@@ -148,12 +148,7 @@ The [GitHub Student Developer Pack](https://education.github.com/pack) is an exc
 - **GitHub Pro**: Free while you are a student 
 - **JetBrains**: Free access to professional desktop IDEs (They are the best :D)
 - **Microsoft Azure**: Free access to 25+ Microsoft Azure cloud services plus $100 in Azure credit
-- **Educative**: 6 months of free access to 60+ courses
-- **DataCamp**: Free 3-month individual subscription
-- **Bootstrap Studio**: Free license while you are a student
-- **Termius**: Free access to premium features
-- **IconScout**: Free access to 60 premium icons every month for 1 year
-- **Canva**: Free Canva Pro subscription for 12 months
+- **DigitalOcean** $200 in platform credit for 1 year to host your own server
 
 Visit the [GitHub Student Developer Pack](https://education.github.com/pack) website for the full list of offerings and to sign up.
 

@@ -152,6 +152,18 @@ The [GitHub Student Developer Pack](https://education.github.com/pack) is an exc
 
 Visit the [GitHub Student Developer Pack](https://education.github.com/pack) website for the full list of offerings and to sign up.
 
+### JetBrains Educational Licenses
+
+[JetBrains](https://www.jetbrains.com/) offers free educational licenses for students and teachers, providing access to their powerful development tools:
+
+- **For students and teachers:** Free access to all JetBrains IDEs for personal use at school or at home.
+- **For schools and universities:** Access to educational licenses for entire institutions.
+- **For non-academic educators:** Individual licenses for students and teachers.
+
+**Visit the JetBrains Educational Licenses website for more details and to apply:**
+[https://www.jetbrains.com/community/education/#students](https://www.jetbrains.com/community/education/#students) 
+
+
 ### ASVZ (Academic Sports Association Zurich)
 
 ASVZ provides access to a wide range of sports facilities and classes for ETH Zurich students and staff.

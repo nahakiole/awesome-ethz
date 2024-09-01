@@ -164,8 +164,50 @@ For more details and application forms, visit the [Wohnen für Hilfe website](ht
 
 ## Student Discounts and Free Services
 
-- [Overleaf Premium](https://www.overleaf.com/edu/ethz?&nocdn=true) - Free access for ETHZ students, great for LaTeX documents
-- [Projekt Neptun](https://www.projektneptun.ch/) offers discounted laptops, tablets, and accessories for students in Swiss higher education institutions, including ETH Zurich.
+#### Projekt Neptun
+
+Projekt Neptun is an initiative that offers discounted IT equipment to students and staff of Swiss universities, including ETH Zurich.
+
+For more information and to check current offers, visit [https://www.projektneptun.ch/](https://www.projektneptun.ch/)
+
+Starting from the Autumn Semester 2024, Bring Your Own Device (BYOD) will be mandatory for all students beginning a new study program at ETH Zurich. This applies to all levels: Bachelor, Master, continuing education, didactic training, and specialist students.
+
+**Minimum Technical Requirements for BYOD:**
+
+| Component | Minimum Requirement |
+|-----------|---------------------|
+| Processor | AMD R5, Intel Core i5, Apple M1 |
+| RAM | 16 GB |
+| Storage | 512 GB SSD |
+| Screen | 13" / Full HD |
+| Battery life | 7h in everyday use |
+| Ports | 1x USB-C plus 1x USB-A or USB-C (charging via USB-C recommended) |
+| Operating System | Licensed Windows 11 or current macOS |
+| WLAN | 5 GHz standard; 6 GHz (WiFi 6E) recommended |
+| Keyboard | Physical |
+| Webcam | Yes |
+| Warranty | 2 years (3 years recommended) |
+
+#### Overleaf Premium
+
+Overleaf is a collaborative cloud-based LaTeX editor used widely in academic and professional settings. ETH Zurich provides free access to Overleaf Premium for all its students.
+
+- **Features:**
+  - Unlimited number of collaborators
+  - Full document history and track changes
+  - Real-time collaboration
+  - Git integration
+  - Sync with Dropbox and GitHub
+
+- **How to access:**
+  1. Go to [https://www.overleaf.com/edu/ethz](https://www.overleaf.com/edu/ethz)
+  2. Sign up or log in with your ETH email address (ending with @student.ethz.ch)
+  3. Verify your email to activate your premium account
+
+- **Benefits for ETH students:**
+  - Simplifies collaboration on academic papers and projects
+  - Ideal for thesis writing, research papers, and presentations
+  - Access to a wide range of LaTeX templates
 
 ### Züri Velo by PubliBike 
 

@@ -39,8 +39,53 @@ Have a great tip about life in Zurich or studying at ETH? [Contribute to this li
 
 ## Transportation
 
-- [ZVV](https://www.zvv.ch/zvv/en/home.html) - Zurich public transportation information
-- [SBB](https://www.sbb.ch/en) - Swiss Federal Railways for intercity travel
+### ZVV Discounts for ETH Students
+
+The Zürcher Verkehrsverbund (ZVV) offers various discounts and special fares for students, including those at ETH Zurich. Here's a comprehensive overview of the discounts available:
+
+#### NetzPass "Jugend" (Youth Network Pass)
+
+- Eligibility: Students up to 24.99 years old
+- Discount: Reduced fare compared to adult passes
+- Coverage: Valid for all zones in the ZVV network
+- Options: Available as monthly or annual passes
+- Note: Can be used until expiration even if purchased just before turning 25
+
+[ZVV Jugend]([https://www.zvv.ch/zvv/en/home.html](https://www.zvv.ch/zvv/de/abos-und-tickets/tarif/kinder-und-jugendliche.html)) - Zurich public transportation information
+
+### SBB (Swiss Federal Railways) Services for ETH Students
+
+The Swiss Federal Railways (SBB) offers various services and discounts. Here's a comprehensive overview:
+
+#### Discount Cards and Passes
+
+a) **[Half-Fare Travelcard](https://www.sbb.ch/en/tickets-offers/travelcards/half-fare-travelcard.html)**
+   - 50% discount on most public transport tickets in Switzerland
+   - Valid for one year
+   - Special "Half-Fare Travelcard Youth" available for those under 25 at a reduced price
+
+b) **[Seven25 Travelcard / GA Night](https://www.sbb.ch/de/billette-angebote/abos/ga/ga-night.html)**
+   - For young people under 25
+   - Free travel on trains, buses, and boats from 7 PM to 5 AM
+
+c) **[GA Travelcard (General Abonnement](https://www.sbb.ch/en/tickets-offers/travelcards/ga-travelcard.html))**
+   - Unlimited travel on most public transport in Switzerland
+   - Discounted rates for youth (16-25 years) and young adults (25-30 years)
+   - Also if you live with someone who already has one, you can get a discount
+
+d) **[Halbtax PLUS](https://www.sbb.ch/en/tickets-offers/travelcards/half-fare-travelcard-plus.html)**
+   - Combines Half-Fare Travelcard benefits with a prepaid credit system
+   - Available in three tiers for young people under 25: 1000, 2000, and 3000 CHF
+   - Includes bonus credit (e.g., pay 600 CHF, get 1000 CHF credit for Halbtax PLUS Jugend 1000)
+   - Can be used for tickets, day passes, and class upgrades on SBB.ch, SBB Mobile App, and öV Plus App
+   - Unused credit (excluding bonus) is refunded at the end of the year
+   - Half-Fare card must be purchased separately
+
+e) **[Supersaver Tickets](https://www.sbb.ch/en/tickets-offers/tickets/point-to-point-tickets-switzerland/supersaver-tickets.html)**
+  - Discounts of up to 70% on standard fares
+  - Available on specific trains, often during off-peak hours
+  - Can be combined with Half-Fare Travelcard for additional savings
+  - Purchasable via SBB website or mobile app
 
 ### ETH Shuttle Bus (eLink)
 
@@ -77,7 +122,32 @@ For more details and future events, visit the [Pro Velo Velobörse website](http
 
 - [Student Housing](https://www.wohnen.ethz.ch/en/) - Information on student accommodation
 - [WGZimmer.ch](https://www.wgzimmer.ch/) - Platform for finding shared apartments and roommates
-- https://welcome.vseth.ethz.ch/wohnen
+
+### WOKO (Studentische Wohngenossenschaft)
+
+WOKO is a student housing cooperative that offers affordable accommodation options for students in Zurich:
+
+- Provides rooms and small apartments in student residences at reasonable prices
+- Eligibility: Full-time students at recognized universities and colleges in Zurich
+- Minimum rental period: 6 months
+- Maximum rental period: 8 years for full-time students, 2 years for doctoral students
+- Age limit: Some properties have a maximum age limit of 28 years
+- Application process: Online registration and waiting list system
+- Locations: Various properties throughout Zurich and surrounding areas
+- Prices range from CHF 400 to CHF 850 per month, depending on the property and room type
+
+For more information and to apply, visit the [WOKO website](https://www.woko.ch/de/zimmer-in-zuerich).
+
+### VSETH Housing Resources
+
+The Association of Students at ETH Zurich (VSETH) provides valuable housing resources for ETH students:
+
+- Offers a comprehensive guide to finding accommodation in Zurich
+- Provides information on various housing options, including student residences, shared apartments, and private rentals
+- Maintains a list of useful websites and platforms for apartment hunting
+- Offers tips on navigating the competitive Zurich housing market
+
+For more information and access to these resources, visit the [VSETH Welcome Page - Housing section](https://welcome.vseth.ethz.ch/wohnen).
 
 ### Wohnen für Hilfe (Housing for Help)
 

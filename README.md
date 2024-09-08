@@ -264,6 +264,8 @@ The [GitHub Student Developer Pack](https://education.github.com/pack) is an exc
 
 Visit the [GitHub Student Developer Pack](https://education.github.com/pack) website for the full list of offerings and to sign up.
 
+It might take up to eight days for the verification, so it's best to sign up early.
+
 ### JetBrains Educational Licenses
 
 [JetBrains](https://www.jetbrains.com/) offers free educational licenses for students and teachers, providing access to their powerful development tools:

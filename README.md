@@ -166,7 +166,7 @@ The ETH Student Project House (SPH) is a creative hub that supports student proj
   - Free co-working spaces and workshop areas
   - Access to resources like AWS Activate
 - **How to access**: Visit the SPH, participate in their events, and apply for support
-- **Additional Resources**: Mentoring, prototyping facilities, and networking opportunities
+- **Additional Resources**: Mentoring, prototyping facilities (3D Printers), and networking opportunities
 
 [ETH Student Project House](https://sph.ethz.ch/)
 

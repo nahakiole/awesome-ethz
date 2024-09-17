@@ -139,7 +139,6 @@ Pro Velo Kanton Zürich organizes regular bicycle markets (Velobörsen) where yo
 
 Upcoming Velobörsen in 2024:
 
-- September 14: Oerlikon (Max-Bill-Platz)
 - September 21: Winterthur (Katharina-Sulzer-Platz)
 - October 5: Zürich (Helvetiaplatz)
 

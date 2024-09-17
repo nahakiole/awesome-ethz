@@ -396,6 +396,8 @@ We especially encourage contributions related to life in Zurich and studying at 
 - ETH D-INFK Discord
 - [xyquadrat.ch INFk FAQ](https://xyquadrat.ch/infk-faq/) - Lots of nice resources and tricks
 - [VSETH Welcome Page](https://welcome.vseth.ethz.ch/erstewoche)
+- ETH Links für Erstis
+- Ersties HS24 Informatik Whatsapp Group
 
 ---
 

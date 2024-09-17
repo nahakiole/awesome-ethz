@@ -76,6 +76,16 @@ The Zürcher Verkehrsverbund (ZVV) offers various discounts and special fares fo
 
 [ZVV Jugend](https://www.zvv.ch/zvv/de/abos-und-tickets/tarif/kinder-und-jugendliche.html) - Zurich public transportation information
 
+### ZKB Nachtschwärmer
+
+Zürcher Kantonalbank (ZKB) offers the **ZKB Nachtschwärmer** ticket, allowing you to travel for free on Friday and Saturday nights from 7 PM in the entire ZVV network if you have their eBanking Mobile App.
+
+- **Eligibility**: ZKB customers with the eBanking Mobile App
+- **Benefits**: Free travel on the ZVV network on Fridays and Saturdays from 7 PM
+- **How to use**: Activate the ticket in the ZKB eBanking Mobile App
+
+[ZKB Nachtschwärmer](https://www.zkb.ch/de/ueber-uns/unser-engagement/umwelt-mobilitaet/zvv-nachtnetz.html)
+
 ### SBB (Swiss Federal Railways) Services for ETH Students
 
 The Swiss Federal Railways (SBB) offers various services and discounts. Here's a comprehensive overview:
@@ -86,6 +96,9 @@ a) **[Half-Fare Travelcard](https://www.sbb.ch/en/tickets-offers/travelcards/hal
    - 50% discount on most public transport tickets in Switzerland
    - Valid for one year
    - Special "Half-Fare Travelcard Youth" available for those under 25 at a reduced price
+   - **Raiffeisen YoungMemberPlus**: Get 50% off your next Halbtax with Raiffeisen's YoungMemberPlus program
+     - **Eligibility**: Raiffeisen YoungMemberPlus customers
+     - [Raiffeisen YoungMemberPlus Benefits](https://www.raiffeisen.ch/rch/de/privatkunden/youngmemberplus/vorteile.html)
 
 b) **[Seven25 Travelcard / GA Night](https://www.sbb.ch/de/billette-angebote/abos/ga/ga-night.html)**
    - For young people under 25
@@ -142,6 +155,20 @@ For more details and future events, visit the [Pro Velo Velobörse website](http
 - [ETH Entrepreneur Club](https://www.entrepreneur-club.org/) - Student organization promoting entrepreneurship
 - [Language Center](https://www.sprachenzentrum.uzh.ch/en.html) - Language courses for students
 - [ASVZ Sportfahrplan](https://www.asvz.ch/426-sportfahrplan) - Create your personal sports schedule with a wide range of activities
+- [Student Project House (SPH)](https://sph.ethz.ch/) - A creative space supporting student initiatives and projects
+
+### ETH Student Project House (SPH)
+
+The ETH Student Project House (SPH) is a creative hub that supports student projects and startups:
+
+- **Benefits**:
+  - Up to **CHF 400 per semester** towards your startup or project
+  - Free co-working spaces and workshop areas
+  - Access to resources like AWS Activate
+- **How to access**: Visit the SPH, participate in their events, and apply for support
+- **Additional Resources**: Mentoring, prototyping facilities, and networking opportunities
+
+[ETH Student Project House](https://sph.ethz.ch/)
 
 ## Housing
 
@@ -200,19 +227,19 @@ Starting from the Autumn Semester 2024, Bring Your Own Device (BYOD) will be man
 
 **Minimum Technical Requirements for BYOD:**
 
-| Component       | Minimum Requirement                                        |
-|-----------------|------------------------------------------------------------|
-| Processor       | AMD R5, Intel Core i5, Apple M1                            |
-| RAM             | 16 GB                                                      |
-| Storage         | 512 GB SSD                                                 |
-| Screen          | 13" / Full HD                                              |
-| Battery life    | 7h in everyday use                                         |
-| Ports           | 1x USB-C plus 1x USB-A or USB-C (charging via USB-C recommended) |
-| Operating System| Licensed Windows 11 or current macOS                       |
-| WLAN            | 5 GHz standard; 6 GHz (WiFi 6E) recommended                |
-| Keyboard        | Physical                                                   |
-| Webcam          | Yes                                                        |
-| Warranty        | 2 years (3 years recommended)                              |
+| Component        | Minimum Requirement                                            |
+|------------------|----------------------------------------------------------------|
+| Processor        | AMD R5, Intel Core i5, Apple M1                                |
+| RAM              | 16 GB                                                          |
+| Storage          | 512 GB SSD                                                     |
+| Screen           | 13" / Full HD                                                  |
+| Battery life     | 7h in everyday use                                             |
+| Ports            | 1x USB-C plus 1x USB-A or USB-C (charging via USB-C recommended) |
+| Operating System | Licensed Windows 11 or current macOS                           |
+| WLAN             | 5 GHz standard; 6 GHz (WiFi 6E) recommended                    |
+| Keyboard         | Physical                                                       |
+| Webcam           | Yes                                                            |
+| Warranty         | 2 years (3 years recommended)                                  |
 
 > **Note**: A professor at the intro talk mentioned that if you already have a notebook, you don't need to buy a new one with top specs for the first year. This is his personal opinion and not an official statement.
 

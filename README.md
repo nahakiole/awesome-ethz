@@ -214,6 +214,8 @@ Starting from the Autumn Semester 2024, Bring Your Own Device (BYOD) will be man
 | Webcam          | Yes                                                        |
 | Warranty        | 2 years (3 years recommended)                              |
 
+> **Note**: A professor at the intro talk mentioned that if you already have a notebook, you don't need to buy a new one with top specs for the first year. This is his personal opinion and not an official statement.
+
 #### Overleaf Premium
 
 Overleaf is a collaborative cloud-based LaTeX editor used widely in academic and professional settings. ETH Zurich provides free access to Overleaf Premium for all its students.

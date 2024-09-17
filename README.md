@@ -356,7 +356,7 @@ ASVZ provides access to a wide range of sports facilities and classes for ETH Zu
 
 For more information on eligibility and access, visit the [ASVZ Eligibility Page](https://www.asvz.ch/en/node/77532).
 
-#### VSOS - SOSETH Virtual Machine Hosting
+### VSOS - SOSETH Virtual Machine Hosting
 
 VSOS offers free virtual servers to students and organizations at ETH Zurich.
 

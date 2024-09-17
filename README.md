@@ -356,6 +356,21 @@ ASVZ provides access to a wide range of sports facilities and classes for ETH Zu
 
 For more information on eligibility and access, visit the [ASVZ Eligibility Page](https://www.asvz.ch/en/node/77532).
 
+#### VSOS - SOSETH Virtual Machine Hosting
+
+VSOS offers free virtual servers to students and organizations at ETH Zurich.
+
+- **Benefits**:
+  - Free virtual machines (VMs) for personal projects, student organizations, or academic purposes
+  - Support for services like mail servers, TeamSpeak servers, and more
+  - Opportunity to get involved in maintaining and expanding the cluster
+- **How to request a VM**:
+  - Fill out the request form [here](https://sos.ethz.ch/ressorts/vsos/)
+  - For support on existing VMs, email [vsos-support@sos.ethz.ch](mailto:vsos-support@sos.ethz.ch)
+- **Contact**: [vsos@sos.ethz.ch](mailto:vsos@sos.ethz.ch)
+
+VSOS is supported by the ETH Zurich Informatikdienste and the Stiftung e-na’bel.
+
 ## Financial Aid and Insurance
 
 - Apply for financial aid through your home canton: [List of Cantonal Scholarship Offices](https://ethz.ch/content/dam/ethz/main/education/finanzielles/files-de/stipendienstellen.pdf)

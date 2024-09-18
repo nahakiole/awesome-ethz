@@ -24,7 +24,7 @@ Have a great tip about life in Zurich or studying at ETH? [Contribute to this li
 
 ### Essential Apps
 
-- **ETH EduApp** - Official ETH app for course materials, lecture slides, and interactive participation during lectures. [iOS](https://apps.apple.com/ch/app/eth-eduapp/id1277289797), [Android](https://play.google.com/store/apps/details?id=ch.ethz.eduapp&hl=de_AT)
+- **ETH EduApp** - Official ETH app for course materials, lecture slides, and interactive participation during lectures. [iOS](https://apps.apple.com/ch/app/eth-eduapp/id1277289797), [Android](https://play.google.com/store/apps/details?id=ch.ethz.eduapp&hl=de_AT) [Web App](https://eduapp.ethz.ch/)
 - **ETH Mensa App** - Check menus of ETH cafeterias. [iOS](https://apps.apple.com/ch/app/eth-mensa/id1613899399), [Android](https://play.google.com/store/apps/details?id=ch.famoser.mensa&hl=de_CH)
 - **ETH Video App** - Access lecture recordings and video content. [iOS](https://apps.apple.com/ch/app/eth-video/id6458144304) (unfortunately not available for Android)
 - **ASVZ App** - Schedule and manage your sports activities with ASVZ. [iOS](https://apps.apple.com/ch/app/asvz/id407786549), [Android](https://play.google.com/store/apps/details?id=ch.asvz.asvz&hl=de_CH)

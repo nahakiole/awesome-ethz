@@ -142,22 +142,21 @@ The eLink shuttle bus is a free service for ETH Zurich students, employees, and 
 
 Pro Velo Kanton Zürich organizes regular bicycle markets (Velobörsen) where you can buy or sell bicycles. These events offer a wide selection of bikes, including city bikes, e-bikes, and more.
 
-Upcoming Velobörsen 2025–2026 (ZH)
+Upcoming Velobörsen 2025–2026
 
 #### 2025
-- **Sep 20, 2025**: Winterthur – Katharina-Sulzer-Platz, 09:00 - 15:00 (Veloannahme 08:00 - 10:00)  
+- **Sep 20, 2025**: Winterthur – Katharina-Sulzer-Platz, 09:00–15:00 (Bike intake 08:00–10:00)  
   Link: [https://provelowinterthur.ch/leistungen/veloboerse/](https://www.provelozuerich.ch/event/veloborse-winterthur-5/)
-- **Oct 4, 2025**: Zürich – Helvetiaplatz, 09:00 - 15:00 (Veloannahme 08:00 - 10:00)  
+- **Oct 4, 2025**: Zurich – Helvetiaplatz, 09:00–15:00 (Bike intake 08:00–10:00)  
   Link: https://www.provelozuerich.ch/event/veloborse-helvetiaplatz-2-2025-04-12-2025-10-04/
 
 #### 2026
-- **Mar 14, 2026**: Zürich – Helvetiaplatz, 09:00 - 15:00  
+- **Mar 14, 2026**: Zurich – Helvetiaplatz, 09:00–15:00  
   Link: https://www.provelozuerich.ch/event/veloborse-zurich-helvetiaplatz/2026-03-14/
-- **Apr 18, 2026**: Zürich – Helvetiaplatz, 09:00 - 15:00  
+- **Apr 18, 2026**: Zurich – Helvetiaplatz, 09:00–15:00  
   Link: https://www.provelozuerich.ch/event/veloborse-zurich-helvetiaplatz/2026-04-18/
-- **May 9, 2026**: Zürich – Helvetiaplatz, 09:00 - 15:00  
+- **May 9, 2026**: Zurich – Helvetiaplatz, 09:00–15:00  
   Link: https://www.provelozuerich.ch/events/category/veloboerse/
-
 
 Typical schedule:
 

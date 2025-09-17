@@ -299,8 +299,6 @@ PubliBike stations are available at both the ETH Center and ETH Hönggerberg cam
 
 [PubliBike at ETH Zurich](https://ethz.ch/students/en/campus/transport-mobility/velo/publibike.html)
 
-Here’s a cleaner, student-friendly version that keeps all the details intact but trims the repetition and adds structure:
-
 ### Mobility Car-Sharing Special Offers
 
 ETH students and staff benefit from a special **mobilityPLUS** deal in 2025:

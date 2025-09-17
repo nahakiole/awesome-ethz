@@ -283,10 +283,10 @@ Overleaf is a collaborative cloud-based LaTeX editor used widely in academic and
 
 PubliBike offers a sustainable mobility solution throughout Switzerland. In Zurich, there are almost 2,000 cycles and e-bikes available at around 170 stations. ETHZ students benefit from attractive special conditions:
 
-- **Annual subscription (B-Fit)**: CHF 70 for students (regular price: CHF 99)
+- **Annual subscription (B-Fit)**: CHF 59. First 60 minutes free. Each additional minute CHF 0.10. Max rental 24 h: CHF 24.
 - **Usage rates**:
-  - First 30 minutes: Free for students
-  - After 30 minutes: CHF 0.10 per minute for students and staff
+  - First 60 minutes: Free for students
+  - After 60 minutes: CHF 0.10 per minute for students and staff
 
 How to use PubliBike:
 
@@ -359,7 +359,7 @@ ASVZ provides access to a wide range of sports facilities and classes for ETH Zu
   - ASVZ logo printed on the ETH card
 
 - **MAS and MBA students**: 
-  - Can access ASVZ sports program for an annual fee of CHF 300
+  - Can access ASVZ sports program for an annual fee of CHF 425
 
 - **Employees, academic guests & pensioners**: 
   - Can purchase access at the ASVZ counter or online

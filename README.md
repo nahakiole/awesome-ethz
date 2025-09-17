@@ -299,29 +299,19 @@ PubliBike stations are available at both the ETH Center and ETH Hönggerberg cam
 
 [PubliBike at ETH Zurich](https://ethz.ch/students/en/campus/transport-mobility/velo/publibike.html)
 
+Here’s a cleaner, student-friendly version that keeps all the details intact but trims the repetition and adds structure:
+
 ### Mobility Car-Sharing Special Offers
 
-ETH students and staff with a valid ETH card can benefit from special offers from Mobility, a car-sharing service in Switzerland:
+ETH students and staff benefit from a special **mobilityPLUS** deal in 2025:
 
-1. **Free Mobility Trial Subscription**
-   - 4 months of free Mobility usage
-   - **Eligibility**: All ETH members with a valid ETH card, a valid driver's license in Switzerland, and proof of residence
-   - Regular Mobility rates apply for hours driven and kilometers traveled
-   - Can only be used once per person
-   - Remains valid until expiration even if you leave ETH
+* **Monthly costs**: waived (normally CHF 9.90) → free until **31 December 2025**
+* **Activation fee**: CHF 39.90 (billed directly by Mobility)
+* **Eligibility**: valid ETH card, Swiss-valid driving licence, and proof of residence
+  (Schriftenempfangsschein or valid foreign residence permit also accepted)
+* **Validity**: the contract continues beyond your ETH affiliation, and can be cancelled or changed at the end of any month
 
-2. **Discounted Mobility Annual Subscription**
-   - Annual subscription for CHF 70 (instead of CHF 129)
-   - Available throughout your ETH affiliation
-   - Must be ordered directly through Mobility
-
-How to get started:
-
-- For the free trial, sign up through ETH (not directly through Mobility)
-- For the discounted annual subscription, order directly through Mobility
-- About 2 months before your free trial expires, you'll receive an offer to switch to the discounted annual subscription
-
-These Mobility offers provide a flexible transportation option for longer trips or when you need to carry heavy items, complementing the public transport and bike-sharing options in Zurich.
+Mobility is a flexible option if you need a car for larger hauls or occasional longer trips, complementing Zürich’s excellent public transport and bike-sharing services.
 
 [Mobility Car-Sharing Offers for ETH](https://ethz.ch/staffnet/en/service/eth-card/functions/mobility-car-sharing-offers.html)
 

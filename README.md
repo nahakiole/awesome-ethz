@@ -292,7 +292,7 @@ How to use PubliBike:
 
 1. Download the PubliBike app
 2. Register with your ETHZ student email (ending with @student.ethz.ch)
-3. Enter the promo code: **ethz2024s** for students
+3. Enter the promo code: **ethzpublibike** for students
 4. Add a credit card to your account
 
 PubliBike stations are available at both the ETH Center and ETH Hönggerberg campuses. For station locations, refer to the overview plans available on the ETHZ website.

@@ -44,6 +44,7 @@ Have a great tip about life in Zurich or studying at ETH? [Contribute to this li
 - [Course Review](https://n.ethz.ch/~lteufelbe/coursereview/) - Platform to read and submit course reviews
 - [Upload PDFs for Printing (WiFi or VPN required)](https://webprint.ethz.ch) - Service to upload documents for printing on ETH printers
 - [Printer Code/Printer Credit (WiFi or VPN required)](https://print.ethz.ch) - Manage your printer credit and retrieve your printing code
+- [Student Project House](https://sph.ethz.ch/tools-machines) - Co-working space for extracurricular projects. Free access to 3D Printers, Laser Cutters, and much more
 
 ### Student Life
 

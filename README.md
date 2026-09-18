@@ -1,3 +1,5 @@
+<img width="2059" height="764" alt="banner" src="https://github.com/user-attachments/assets/51c1211e-7eb5-4de8-bcda-5a20e91e450a" />
+
 # Awesome ETHZ Student Resources
 
 > [!NOTE]
